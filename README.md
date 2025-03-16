@@ -1,0 +1,1 @@
+README del proyecto de "Amigo Secreto" donde se podrá agrgar los nombres que deseas, añadirlos a traves del boton indicado y al final efectuar un sorteo entre todos los nombres ingresados que dara como resultado uno de los nombres ingresados.
