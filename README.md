@@ -1,1 +1,1 @@
-README del proyecto de "Amigo Secreto" donde se podrá agrgar los nombres que deseas, añadirlos a traves del boton indicado y al final efectuar un sorteo entre todos los nombres ingresados que dara como resultado uno de los nombres ingresados.
+README del proyecto de "Amigo Secreto" de Alura latam, donde se podrán agregar de a uno los nombres, se añadirán al listado a través del botón indicado y, al final se efectuará un sorteo con el botón indicado que dará como resultado uno de ellos.
